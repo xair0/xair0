@@ -35,10 +35,11 @@
 </div>
 
 <br>
-<h1 align='center'>My Contribution 💜</h1>
+<!--<h1 align='center'>My Contribution 💜</h1>
 <div align=center>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xair0&theme=github" />
-</div>
+</div>-->
+
 
 <br>
 <h1 align="center">Currently working on 🚀</h1>
